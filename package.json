@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "mangaid": "node mangaid/index.js"
+    "mangaid": "node index.js"
   },
   "keywords": [],
   "author": "",
